@@ -1,5 +1,0 @@
- runbackward,false
- runforward,true
- jump,true
-Jump,true
-colliding,false
